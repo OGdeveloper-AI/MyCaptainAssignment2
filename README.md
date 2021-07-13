@@ -12,3 +12,6 @@ Your Input and output must look something like this
 Input: list1 = [12, -7, 5, 64, -14] Output: 12, 5, 64
 
 Input: list2 = [12, 14, -95, 3] Output: [12, 14, 3]
+
+3. Write Python code to create a function called most_frequent that takes a string and prints the letters in decreasing order of frequency. Use dictionaries.
+
